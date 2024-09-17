@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-3cfb730f.js";import{_ as o}from"./preload-helper-cf010ec4.js";shouldLazyLoadPlayground||o(()=>import("./main-c30eb31e.js"),["assets/main-c30eb31e.js","assets/client-ed5073a7.js","assets/config-d782655f.js","assets/modulepreload-polyfill-3cfb730f.js","assets/preload-helper-cf010ec4.js","assets/main-67378139.css"]);

@@ -1,0 +1,1 @@
+{"version":3,"file":"executor.js","sourceRoot":"","sources":["../../../../../../packages/nx-extensions/src/executors/build/executor.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,OAAO,CAAC,KAAK,UAAU,WAAW,CAAC,OAA4B;IACrE,OAAO,CAAC,GAAG,CAAC,wBAAwB,EAAE,OAAO,CAAC,CAAC;IAC/C,OAAO;QACN,OAAO,EAAE,IAAI;KACb,CAAC;AACH,CAAC"}
